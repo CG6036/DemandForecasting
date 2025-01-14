@@ -1,4 +1,4 @@
-# A hybrid machine learning model for demand forecasting: Combination of K-Means, Elastic-Net and Gaussian Process Regression
+# A Hybrid Machine Learning Model for Demand Forecasting: Combination of K-Means, Elastic-Net and Gaussian Process Regression
 
 ## Authors
 Doohee Chung @ ImpactiveAI
