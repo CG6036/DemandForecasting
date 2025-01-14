@@ -2,7 +2,9 @@
 
 ## Authors
 Doohee Chung @ ImpactiveAI
+
 Chan Gyu Lee @ Graduate School of Data Science, Seoul National University
+
 Sungmin Yang @ Technology Management, Seoul National University
 
 ## Reference
