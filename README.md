@@ -8,7 +8,7 @@ Doohee Chung @ ImpactiveAI
 Sungmin Yang @ Technology Management, Seoul National University
 
 ## Reference
-Chung, D., Lee, C. G., & Yang, S. (2023). A hybrid machine learning model for demand forecasting: Combination of K-Means, Elastic-Net and Gaussian Process Regression. International Journal of Intelligent Systems and Applications in Engineering, 11(6s), 325-336.
+*Chung, D., Lee, C. G., & Yang, S. (2023). A hybrid machine learning model for demand forecasting: Combination of K-Means, Elastic-Net and Gaussian Process Regression. International Journal of Intelligent Systems and Applications in Engineering, 11(6s), 325-336.*
 
 https://ijisae.org/index.php/IJISAE/article/view/2859
 
